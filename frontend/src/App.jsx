@@ -5,6 +5,8 @@ import Cookies from "./pages/Cookies";
 import Muffins from "./pages/MuffinsandLoafs";
 import Cakes from "./pages/Cakes";
 import Desserts from "./pages/Desserts";
+import RecipeDetail from "./pages/RecipeDetail";
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
         <Route path="/muffins" element={<Muffins />} />
         <Route path="/cakes" element={<Cakes />} />
         <Route path="/desserts" element={<Desserts />} />
+        <Route path="/recipe/:id" element={<RecipeDetail />} />
       </Routes>
     </Router>
   );

@@ -5,7 +5,7 @@ export default function NavBar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <h1 className="navbar-title">Alexandra's Vegan Bakes</h1>
+        <h1 className="navbar-title">Beez Bakes</h1>
         <div className="navbar-links">
           <Link to="/">Home</Link>
           <Link to="/cookies">Cookies</Link>
