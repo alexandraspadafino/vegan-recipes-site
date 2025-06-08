@@ -19,7 +19,6 @@ export default function Cookies() {
 
   return (
     <div className="cookies-page">
-      <h1 className="cookies-title">Cookie Recipes</h1>
       <div className="cookie-grid">
         {recipes.map((recipe) => (
           <div

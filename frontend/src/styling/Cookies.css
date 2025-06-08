@@ -14,11 +14,12 @@
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
+  margin-top: 7rem;
   justify-content: center;
 }
 
 .cookie-card {
-  width: 250px;
+  width: 200px;
   border: 2px solid #ff66cc;
   border-radius: 12px;
   padding: 1rem;
@@ -42,5 +43,5 @@
 .cookie-image {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 10px;
 }
