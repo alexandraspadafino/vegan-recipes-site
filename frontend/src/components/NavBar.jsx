@@ -12,6 +12,7 @@ export default function NavBar() {
           <Link to="/muffins">Muffins</Link>
           <Link to="/cakes">Cakes</Link>
           <Link to="/desserts">Desserts</Link>
+          <Link to="/Healthy">Healthy Treats</Link>
         </div>
       </div>
     </nav>

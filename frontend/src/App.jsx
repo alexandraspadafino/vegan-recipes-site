@@ -2,10 +2,11 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/NavBar";
 import Home from "./pages/Home";
 import Cookies from "./pages/Cookies";
-import Muffins from "./pages/MuffinsandLoafs";
+import Muffins from "./pages/Muffins";
 import Cakes from "./pages/Cakes";
 import Desserts from "./pages/Desserts";
 import RecipeDetail from "./pages/RecipeDetail";
+import Healthy from "./pages/Healthy";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/muffins" element={<Muffins />} />
         <Route path="/cakes" element={<Cakes />} />
         <Route path="/desserts" element={<Desserts />} />
+        <Route path="/healthy" element={<Healthy />} />
         <Route path="/recipe/:id" element={<RecipeDetail />} />
       </Routes>
     </Router>
