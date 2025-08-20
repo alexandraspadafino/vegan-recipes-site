@@ -5,7 +5,7 @@ export default function Home() {
     <div className="about-wrapper">
       <div className="about-container">
         <img
-          src="/IMG_5743.jpeg"
+          src="/me.jpeg"
           alt="Alexandra smiling"
           className="about-image"
         />
