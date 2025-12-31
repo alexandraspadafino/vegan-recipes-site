@@ -182,5 +182,55 @@
       "Begin to cut shapes, haolf of the shapes plain and half of them with a shape cut out in the center. Bake for about 8-10 minutes or until golden brown.",
       "Once cookies are cooled, add the jam to the center, sandwich the cookie, and dust with powdered sugar!"
     ]
+  }, 
+  {
+    "id": "cookie007",
+    "title": "Vegan S'mores Cookies",
+    "image": "/smores_cookie.jpg",
+    "description": "Fun S'mores Cookies!",
+    "ingredients": [
+      "170g softened butter",
+      "57g applesauce or dairy-free yogurt",
+      "150g brown sugar", 
+      "100g white sugar",
+      "1 tbsp vanilla extract",
+      "1/2 tsp baking soda",
+      "1/4 tsp salt",
+      "250g flour", 
+      "255g chocolate chips or chopped chocolate",
+      "graham crackers", 
+      "mini marshmallows"
+    ],
+    "steps": [
+      "Preheat oven to 350°F, line 2 baking sheets with parchment.",
+      "Mix the flour, salt, baking soda, and set aside.",
+      "Cream the butter, sugar, yogurt/applesauce, and vanilla until smooth, no clumps.",
+      "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
+      "Fold in the chocolate chips and graham crackers",
+      "Roll the dough into desired balls, make a cavity in the middle, and place marshmallow. Bake for around 10-15 mins depending on size of cookies. Until the edges are golden brown."
+    ]
+  }, 
+  {
+    "id": "cookie008",
+    "title": "Vegan Valentines Day Cookies",
+    "image": "/valentines_cookies.jpg",
+    "description": "Valentines Day Cookies!",
+    "ingredients": [
+      "1 1/2 cups flour",
+      "3/4 tsp baking soda",
+      "1/2 tsp baking powder", 
+      "1/2 tsp salt",
+      "1/2 cup sugar",
+      "6 tbsp oil/melted vegan butter",
+      "1 1/2 tbsp plant-based milk",
+      "1 tsp vanilla extract"
+    ],
+    "steps": [
+      "Preheat oven to 325°F, line 2 baking sheets with parchment.",
+      "Mix the flour, salt, baking soda, baking powder, and set aside.",
+      "Mix the oil/butter, sugar, and vanilla until smooth.",
+      "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
+      "Roll the dough and cut into shapes. Bake for around 10-12 minutes until golden brown. Add icing if desired!"
+    ]
   }
 ]
