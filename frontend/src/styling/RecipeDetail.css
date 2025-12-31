@@ -5,6 +5,7 @@
   margin: auto;
   text-align: left;
   font-family: "Poppins", sans-serif;
+  color: #111; /* <-- add this */
 }
 
 .recipe-detail h1 {
