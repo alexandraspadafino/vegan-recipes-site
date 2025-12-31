@@ -1,7 +1,7 @@
 [
   {
     "id": "muffin001",
-    "title": "Vegan Chocolate Chip Muffins",
+    "title": "Chocolate Chip Muffins",
     "image": "/choc_chip_muffin.jpg",
     "description": "Soft, moist muffins made without eggs or dairy.",
     "ingredients": [
@@ -22,7 +22,7 @@
   },
   {
     "id": "cookie001",
-    "title": "Vegan Double Chocolate Chip Cookies",
+    "title": "Double Chocolate Chip Cookies",
     "image": "/double_choc.jpg",
     "description": "Chewy and chocolatey vegan cookies with a rich cocoa base.",
     "ingredients": [
@@ -50,7 +50,7 @@
   },
   {
     "id": "cookie003",
-    "title": "Vegan Gluten-Free Chocolate Chip Cookies",
+    "title": "Gluten-Free Chocolate Chip Cookies",
     "image": "/gluten_free_choc_chip.jpg",
     "description": "Soft and chewy chocolate chip cookies made gluten-free with oat flour and dairy-free yogurt.",
     "ingredients": [
@@ -78,7 +78,7 @@
   },
   {
     "id": "cookie002",
-    "title": "Vegan Chocolate Chip Cookies",
+    "title": "Chocolate Chip Cookies",
     "image": "/choc_chip.jpg",
     "description": "Chewy vegan chocolate chip cookies made with no eggs—just pure cookie magic.",
     "ingredients": [
@@ -106,7 +106,7 @@
   },
   {
     "id": "cookie004",
-    "title": "Vegan Funfetti Sugar Cookies",
+    "title": "Funfetti Sugar Cookies",
     "image": "/funfetti.jpg",
     "description": "Chewy in the middle, crispy on the outside, fun sugar cookies!",
     "ingredients": [
@@ -132,7 +132,7 @@
   },
   {
     "id": "cookie005",
-    "title": "Vegan Ginger Snap Cookies",
+    "title": "Ginger Snap Cookies",
     "image": "/ginger_cookie.jpg",
     "description": "Chewy in the middle, crispy on the outside, fun ginger cookies!",
     "ingredients": [
@@ -158,7 +158,7 @@
   },
   {
     "id": "cookie006",
-    "title": "Vegan Linzer Tart Cookies",
+    "title": "Linzer Tart Cookies",
     "image": "/linzer_tart.jpg",
     "description": "Fun Holiday Linzer Tart Cookies!",
     "ingredients": [
@@ -185,7 +185,7 @@
   }, 
   {
     "id": "cookie007",
-    "title": "Vegan S'mores Cookies",
+    "title": "S'mores Cookies",
     "image": "/smores_cookie.jpg",
     "description": "Fun S'mores Cookies!",
     "ingredients": [
@@ -212,7 +212,7 @@
   }, 
   {
     "id": "cookie008",
-    "title": "Vegan Valentines Day Cookies",
+    "title": "Valentines Day Cookies",
     "image": "/valentines_cookies.jpg",
     "description": "Valentines Day Cookies!",
     "ingredients": [
@@ -235,7 +235,7 @@
   },
   {
     "id": "cookie009",
-    "title": "Vegan Iced Lemon Cookies",
+    "title": "Iced Lemon Cookies",
     "image": "/iced_lemon_cookie.jpg",
     "description": "Chewy vegan chocolate chip cookies made with no eggs—just pure cookie magic.",
     "ingredients": [
@@ -263,7 +263,7 @@
   }, 
   {
     "id": "cookie010",
-    "title": "Vegan Iced Oatmeal Cookies",
+    "title": "Iced Oatmeal Cookies",
     "image": "/iced_oatmeal_cookie.jpg",
     "description": "Chewy vegan chocolate chip cookies made with no eggs—just pure cookie magic.",
     "ingredients": [
@@ -294,7 +294,7 @@
   }, 
   {
     "id": "cookie011",
-    "title": "Vegan Oatmeal Raisin Cookies",
+    "title": "Oatmeal Raisin Cookies",
     "image": "/oatmeal_raisin_cookie.jpg",
     "description": "Chewy vegan oatmeal raisin cookies!",
     "ingredients": [
@@ -304,7 +304,7 @@
   }, 
   {
     "id": "cookie012",
-    "title": "Vegan Snickerdoodle Cookies",
+    "title": "Snickerdoodle Cookies",
     "image": "/snickerdoodle.jpg",
     "description": "Chewy vegan Snickerdoodles!",
     "ingredients": [

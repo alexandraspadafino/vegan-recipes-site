@@ -9,7 +9,7 @@ export default function Home() {
           alt="Alexandra smiling"
           className="about-image"
         />
-        <h1>Hello! I'm Alexandra ☀️</h1>
+        <h1>Hi! I'm Alexandra!</h1>
         <p>
           I’m a passionate vegan baker from Hillsdale, New Jersey. I bake 100% vegan because I’m
           allergic to milk and eggs—but trust me, you won’t miss them one bit!
