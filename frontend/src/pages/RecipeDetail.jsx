@@ -33,7 +33,7 @@ export default function RecipeDetail() {
   return (
     <div className="recipe-detail">
       <h1>{recipe.title}</h1>
-      <img src={recipe.image} alt={recipe.title} className="recipe-image" />
+      <img src={recipe.image} alt={recipe.title} className="recipe-image" loading="lazy" decoding ="async" />
       <p>{recipe.description}</p>
 
       <h2>Ingredients</h2>
