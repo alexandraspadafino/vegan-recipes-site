@@ -89,7 +89,7 @@
 
   .cookie-card {
     padding: 0.7rem !important;   /* smaller inner spacing */
-    border-radius: 16px;
+    border-radius: 4px;
   }
 
   .cookie-card::before {
