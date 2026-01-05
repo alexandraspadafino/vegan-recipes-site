@@ -31,6 +31,8 @@ export default function Cookies() {
               src={recipe.image}
               alt={recipe.title}
               className="cookie-image"
+              loading="lazy"
+              decoding="async"
             />
           </div>
         ))}
