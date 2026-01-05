@@ -88,8 +88,9 @@
   }
 
   .cookie-card {
-    padding: 0.75rem;
     border-radius: 16px;
+    background: yellow !important;
+    padding: 0.4rem !important;
   }
 
   .cookie-card::before {
