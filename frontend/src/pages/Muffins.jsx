@@ -11,7 +11,7 @@ export default function MuffinsandLoafs() {
       .then((res) => res.json())
       .then((data) => {
         const cookieRecipes = data.filter((recipe) =>
-          recipe.title.toLowerCase().includes("muffin")
+          recipe.id.toLowerCase().includes("muffin")
         );
         setRecipes(cookieRecipes);
       });

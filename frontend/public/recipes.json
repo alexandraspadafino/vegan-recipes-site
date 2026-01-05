@@ -293,7 +293,7 @@
     ]
   }, 
   {
-    "id": "cookie011",
+    "id": "cookie11",
     "title": "Oatmeal Raisin Cookies",
     "image": "/oatmeal_raisin_cookie.jpg",
     "description": "Chewy vegan oatmeal raisin cookies!",
@@ -303,10 +303,140 @@
     ]
   }, 
   {
-    "id": "cookie012",
-    "title": "Snickerdoodle Cookies",
-    "image": "/snickerdoodle.jpg",
-    "description": "Chewy vegan Snickerdoodles!",
+    "id": "healthy01",
+    "title": "Healthy Pumpkin Chocolate Chip Muffin",
+    "image": "/healthy_muffin.jpg",
+    "description": "Yummy Healthy Vegan Pumpkin Muffin!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "muffin03",
+    "title": "Bakery-Style Berry Muffin",
+    "image": "/berry_muffin.jpg",
+    "description": "Amazing Vegan Bakery-Style Berry Muffin!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  },
+  {
+    "id": "healthy02",
+    "title": "Healthy Banana Chocolate Chip Muffin",
+    "image": "/healthy_choc_banana_muffin.jpg",
+    "description": "Delicious Healthy Vegan Banana Chocolate Muffin!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  },
+  {
+    "id": "muffin05",
+    "title": "Blueberry Muffins",
+    "image": "/blueberry_muffin.jpg",
+    "description": "Simple Vegan Blueberry Muffins!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  },
+  {
+    "id": "muffin06",
+    "title": "Pumpkin Muffins",
+    "image": "/pumpkin_muffin.jpg",
+    "description": "Superb Vegan Pumpkin Muffins!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "healthy03",
+    "title": "Healthy Granola Bars",
+    "image": "/granola_bars.jpg",
+    "description": "Healthy Granola Bars!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "healthy04",
+    "title": "Pumpkin Spice Protein Granola",
+    "image": "/pumpkin_protein_granola.jpg",
+    "description": "Amazing Pumpkin Spice Protein Granola!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cookie12",
+    "title": "Oatmeal Chocolate Chip Cookie",
+    "image": "/oatmeal_chip_cookie.jpg",
+    "description": "Amazing Vegan Oatmeal Chocolate Chip Cookie!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cookie13",
+    "title": "Snickerdoodle Crumbl Cookie Dupe",
+    "image": "/snickerdoodle_crumbl_dupe.jpg",
+    "description": "Totally Vegan Snickerdoodle Crumbl Cookie Dupe!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cookie14",
+    "title": "Lemon White Chocolate Chip Cookie",
+    "image": "/lemon_white_choc_cookie.jpg",
+    "description": "Amazing Lemon White Chocolate Chip Cookie!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cookie15",
+    "title": "Holiday Hot Cocoa Cookie",
+    "image": "/hot_cocoa_cookie.jpg",
+    "description": "Amazing Holiday Hot Cocoa Cookie!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cake01",
+    "title": "Strawberry ShortCake",
+    "image": "/strawb_short_cake.jpg",
+    "description": "Vegan Strawberry ShortCake!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cake02",
+    "title": "Lemon Cake",
+    "image": "/lemon_cake.jpg",
+    "description": "Amazing Vegan Lemon Cake with Lemon Curd and Lemon ButterCream!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
+  }, 
+  {
+    "id": "cake03",
+    "title": "Chocolate Raspberry Cake",
+    "image": "/choc_ras_cake.jpg",
+    "description": "Amazing Vegan Chocolate Raspberry-Filled Cake with Raspberry Buttercream!",
     "ingredients": [
     ],
     "steps": [

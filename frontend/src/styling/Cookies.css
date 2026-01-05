@@ -3,6 +3,9 @@
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
   gap: 1.75rem;
   max-width: 1100px;
+  margin: 0 auto;      /* ✅ centers the grid container */
+  width: 100%;         /* optional: lets it shrink nicely */
+  padding: 0 1rem;     /* optional: keeps it off the edges */
 }
 
 .cookie-card {

@@ -11,7 +11,7 @@ export default function Cookies() {
       .then((res) => res.json())
       .then((data) => {
         const cookieRecipes = data.filter((recipe) =>
-          recipe.title.toLowerCase().includes("cookie")
+          recipe.id.toLowerCase().includes("cookie")
         );
         setRecipes(cookieRecipes);
       });
