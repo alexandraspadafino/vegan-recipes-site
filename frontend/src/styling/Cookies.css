@@ -78,7 +78,6 @@
   font-weight: 650;
 }
 
-/* Mobile: make cards less tall + images less dominant */
 @media (max-width: 480px) {
   .cookie-grid {
     grid-template-columns: 1fr;
@@ -89,15 +88,22 @@
   .cookie-card {
     padding: 0.9rem;
     border-radius: 18px;
-  }
-
-  .cookie-image {
-    aspect-ratio: 16 / 10; /* shorter than 4:3 (less tall) */
-    border-radius: 14px;
+    gap: 0.7rem;        /* slightly tighter on mobile */
   }
 
   .cookie-card h2 {
     font-size: 1.05rem;
-    margin: 0.65rem 0 0.75rem;
+    line-height: 1.2;
+    padding: 0 0.1rem;
+  }
+
+  .cookie-image {
+    aspect-ratio: 16 / 10;  /* less tall so the card feels balanced */
+    border-radius: 14px;
+  }
+
+  .cookie-cta {
+    padding: 0 0.1rem;
+    font-size: 0.92rem;
   }
 }
