@@ -27,6 +27,25 @@
   margin-top: 2rem;
 }
 
+.recipe-actions {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: flex-end; /* pushes buttons to the right */
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.recipe-btn {
+  background: #ffd1e8;          /* baby pink */
+  border: 1px solid #ff9bd0;    /* slightly darker pink border */
+  color: #c2186a;               /* darker pink text/icon */
+  padding: 0.55rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 1.05rem;           /* emoji size */
+  line-height: 1;
+}
+
 .ingredients-list {
   list-style: none;
   padding-left: 0;
