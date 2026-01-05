@@ -78,45 +78,45 @@
   font-weight: 650;
 }
 
-/* Smaller cookie cards on mobile */
-@media (max-width: 480px) {
+/* ✅ Mobile: smaller cards */
+@media (max-width: 520px) {
   .cookie-grid {
-    grid-template-columns: 1fr;
-    gap: 0.85rem;
-    padding: 0 0.65rem;
-    max-width: 420px; /* keeps the column from feeling huge */
+    grid-template-columns: 1fr;   /* one per row */
+    gap: 0.75rem;                 /* tighter spacing between cards */
+    padding: 0 0.6rem;            /* less side padding */
+    max-width: 420px;             /* prevents super wide cards */
   }
 
   .cookie-card {
+    padding: 0.7rem !important;   /* smaller inner spacing */
     border-radius: 16px;
-    background: yellow !important;
-    padding: 0.4rem !important;
   }
 
   .cookie-card::before {
-    height: 4px; /* smaller accent bar */
+    height: 4px;                  /* smaller top accent */
   }
 
+  /* make the image shorter so the whole card is shorter */
   .cookie-image {
-    aspect-ratio: 16 / 9;  /* shorter image = shorter card */
+    aspect-ratio: 3 / 2;          /* shorter than 4/3 */
     border-radius: 12px;
   }
 
   .cookie-card h2 {
     font-size: 1rem;
-    margin: 0.45rem 0 0.55rem; /* tighter */
+    margin: 0.45rem 0 0.55rem;
+    padding: 0 0.05rem;
     line-height: 1.2;
-    padding: 0 0.1rem;
   }
 
   .cookie-cta {
-    margin-top: 0.35rem;
+    margin-top: 0.2rem;
+    padding: 0 0.05rem;
     font-size: 0.9rem;
-    padding: 0 0.1rem;
   }
 }
 
-/* Disable hover lift on touch devices so it doesn't feel jumpy */
+/* prevent hover-lift weirdness on touch */
 @media (hover: none) {
   .cookie-card:hover {
     transform: none;
