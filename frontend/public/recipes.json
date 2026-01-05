@@ -1,30 +1,32 @@
 [
   {
-    "id": "muffin001",
+    "id": "muffin01",
     "title": "Chocolate Chip Muffins",
     "image": "/choc_chip_muffin.jpg",
     "description": "Soft, moist muffins made without eggs or dairy.",
     "ingredients": [
-      "1½ cups flour",
-      "½ cup mixed white & brown sugar",
-      "½ cup almond milk",
-      "⅓ cup neutral oil & apple sauce",
-      "1 cup mini vegan chocolate chips",
-      "1 tbsp baking powder"
+      "1 1/2 cups of flour (180 g)",
+      "1 cup white sugar (100 g)",
+      "1/2 cup unsweetened almond/oat milk (120 g)",
+      "1/3 cup neutral oil (73 g)",
+      "1/3 cup applesauce (80 g)",
+      "1 cup mini vegan chocolate chips (170 g)",
+      "1 tbsp baking powder",
+      "1/2 tsp salt"
     ],
     "steps": [
       "Preheat oven to 350°F.",
-      "Mix the flour and baking powder and set aside.",
+      "Mix the flour, baking powder, and salt. Set aside.",
       "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
-      "Fold in chocolate chips.",
-      "Fill muffin tins to the top, sprinkle extra chips, and bake for 20 mins."
+      "Gently fold in chocolate chips.",
+      "Fill muffin tins to the top, sprinkle extra chips, and bake for around 20 mins, or until an inserted toothpick comes out clean!"
     ]
   },
   {
-    "id": "cookie001",
+    "id": "cookie01",
     "title": "Double Chocolate Chip Cookies",
     "image": "/double_choc.jpg",
-    "description": "Chewy and chocolatey vegan cookies with a rich cocoa base.",
+    "description": "Chewy and chocolatey vegan cookies with a rich cocoa base. These are honestly probably the only cookie I have ever perfected and they come out amazing every. single. time.",
     "ingredients": [
       "1 1/4 cups (160 g) all purpose flour",
       "1/2 cup (50 g) dutch-process cocoa powder",
@@ -32,172 +34,177 @@
       "1/2 tsp sea salt",
       "1/2 tsp espresso powder (optional, but highly recommended)",
       "1/2 cup (113 g) softened vegan butter",
-      "1/3 cup (83 g) unsweetened applesauce, room temperature",
+      "1/3 cup (85 g) unsweetened applesauce/dairy-free yogurt",
       "2/3 cup (135 g) brown sugar",
       "1/2 cup (100 g) granulated sugar",
       "1/2 tsp vanilla extract",
-      "1 cup vegan chocolate chips or chopped vegan chocolate"
+      "1 cup (170 g) vegan chocolate chips or however many your heart desires :)"
     ],
     "steps": [
-      "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
-      "In a bowl, whisk together flour, cocoa powder, baking soda, salt, and espresso powder.",
-      "In a separate bowl, cream the softened vegan butter with applesauce, brown sugar, granulated sugar, and vanilla until well combined.",
-      "Gradually add the dry ingredients to the wet, mixing until a dough forms.",
-      "Fold in the chocolate chips or chunks.",
-      "Scoop cookie dough onto the baking sheet and bake for 10–12 minutes.",
-      "Let cookies cool for 5 minutes on the tray before transferring to a wire rack."
+      "Before you start, I highly recommend using a kitchen scale for measuring out the ingredients!",
+      "In a bowl, whisk together flour, cocoa powder, baking soda, salt, and espresso powder. Set this bowl aside.",
+      "In a separate bowl, cream the softened vegan butter with brown sugar and granulated sugar for around 3 minutes using a mixer. Slowly add in the vanilla and apple sauce until well combined.",
+      "Gradually add the dry ingredients to the wet, mixing with a wooden spoon gently until a dough forms.",
+      "Fold in the chocolate chips or chunks. I recommend using 2 types for a nice variety, Trader Joes has an excellent selection.",
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until you can tell they are done!",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   },
   {
-    "id": "cookie003",
+    "id": "cookie03",
     "title": "Gluten-Free Chocolate Chip Cookies",
     "image": "/gluten_free_choc_chip.jpg",
-    "description": "Soft and chewy chocolate chip cookies made gluten-free with oat flour and dairy-free yogurt.",
+    "description": "Soft and chewy chocolate chip cookies made gluten-free with oat flour! I make these for my gluten-free friends and they absolutely adore them! Most can't even tell they are gluten free besides the subtle oat taste, but that could easily be replaced with 1:1 gluten free flour, I just like using the oat flour tbh.",
     "ingredients": [
       "2 cups (180 g) oat flour, sifted",
-      "1 tbsp (10 g) arrowroot starch",
+      "1 tbsp (10 g) arrowroot starch (or corn/potato starch)",
       "1 tsp baking powder",
       "1/2 tsp baking soda",
-      "1/2 cup (113 g) salted vegan butter, room temperature",
+      "1/2 cup (113 g) salted vegan butter, melted",
       "1/2 cup (100 g) organic granulated sugar",
       "1/2 cup (100 g) brown sugar",
-      "1/3 cup (80 g) applesauce",
+      "1/3 cup (85 g) unsweetened applesauce/dairy-free yogurt",
       "1 tsp vanilla extract",
-      "1 cup (180 g) vegan chocolate chips or vegan milk chocolate chunks"
+      "1 cup (170 g) vegan chocolate chips or however many your heart desires :)"
     ],
     "steps": [
       "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
       "In a medium bowl, whisk together oat flour, arrowroot starch, baking powder, and baking soda.",
-      "In a separate bowl, cream together the softened vegan butter, granulated sugar, and brown sugar until smooth.",
-      "Stir in the dairy-free yogurt and vanilla extract until combined.",
-      "Gradually mix the dry ingredients into the wet ingredients to form a dough.",
+      "In a separate bowl, cream together the melted vegan butter, granulated sugar, and brown sugar for about 3 minutes.",
+      "Stir in the dairy-free yogurt and vanilla extract into the sugar/butter mixture until combined.",
+      "Gradually mix the dry ingredients into the wet ingredients to form a dough. I recommend using a wooden spoon.",
       "Fold in chocolate chips or chunks.",
-      "Scoop dough onto the prepared baking sheet and bake for 10–12 minutes or until edges are golden.",
-      "Allow to cool for 5–10 minutes before serving."
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until edges are golden brown.",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   },
   {
-    "id": "cookie002",
+    "id": "cookie02",
     "title": "Chocolate Chip Cookies",
     "image": "/choc_chip.jpg",
-    "description": "Chewy vegan chocolate chip cookies made with no eggs—just pure cookie magic.",
+    "description": "Chewy vegan chocolate chip cookies made with no eggs. It took me about 10 years to master this chocolate chip cookie recipe. I have made so many modifications it's not even funny. However, these take the cake for now, but I trust I will come up with a new and improved recipe soon :)",
     "ingredients": [
-      "2 1/4 cups (280 g) all purpose flour or gluten free 1:1 baking flour, sifted and spoon & leveled",
-      "1 tbsp cornstarch or arrowroot starch",
+      "2 1/4 cups (280 g) all purpose flour",
+      "1 tbsp (10 g) arrowroot starch (or corn/potato starch)",
       "1/2 tsp baking soda",
       "1/4 tsp sea salt",
-      "2/3 cup (150 g) salted vegan butter, softened",
+      "2/3 cup (150 g) salted vegan butter, melted",
       "2/3 cup (135 g) light brown sugar",
       "1/2 cup (100 g) organic granulated sugar",
-      "1/3 cup (85 g) unsweetened applesauce, room temperature",
+      "1/3 cup (85 g) unsweetened applesauce/dairy-free yogurt",
       "1 tbsp vanilla extract",
-      "1 cup (170 g) vegan chocolate chips (semi-sweet or your choice!)"
+      "1 cup (170 g) vegan chocolate chips or however many your heart desires :)"
     ],
     "steps": [
       "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
-      "In a medium bowl, whisk together flour, cornstarch, baking soda, and salt.",
-      "In a large bowl, beat the softened vegan butter with brown sugar and granulated sugar until fluffy.",
-      "Add applesauce and vanilla extract to the wet mixture and stir to combine.",
-      "Slowly add the dry ingredients into the wet mixture until a dough forms.",
+      "In a medium bowl, whisk together flour, cornstarch, baking soda, and salt. Set aside.",
+      "In a large bowl, beat the melted vegan butter with brown sugar and granulated sugar until fluffy.",
+      "Add applesauce/yogurt and vanilla extract to the sugar/butter mixture and stir to combine.",
+      "Slowly add the dry ingredients into the wet mixture until a dough forms. I recommend using a wooden spoon.",
       "Fold in the chocolate chips.",
-      "Scoop dough onto the prepared baking sheet and bake for 10–12 minutes until edges are golden.",
-      "Cool on the tray for 5 minutes before transferring to a cooling rack."
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until until edges are golden brown.",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   },
   {
-    "id": "cookie004",
+    "id": "cookie04",
     "title": "Funfetti Sugar Cookies",
     "image": "/funfetti.jpg",
     "description": "Chewy in the middle, crispy on the outside, fun sugar cookies!",
     "ingredients": [
-      "½ cup softened butter",
-      "1/4 cup applesauce",
-      "3/4 cup cane sugar",
+      "1/2 cup (113 g) melted vegan butter",
+      "1/4 cup (60 g) applesauce (or ~60 g dairy-free yogurt)",
+      "3/4 cup (150 g) cane sugar",
       "1 tsp vanilla extract",
-      "1 3/4 cup flour",
+      "1 3/4 cup (210 g) all-purpose flour",
       "1 tsp cornstarch",
       "1 tsp baking powder",
       "1/2 tsp baking soda",
       "1/4 tsp salt",
-      "5 tbsp sprinkles"
+      "sprinkles"
     ],
     "steps": [
       "Preheat oven to 350°F.",
-      "Mix the flour, baking powder, baking soda, cornstarch, salt, sprinkles",
-      "Cream the butter, sugar, applesauce, and vanilla until smooth, no clumps.",
-      "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
-      "Fold in more sprinkles",
-      "Roll the dough into desired balls, and bake for around 10-15 mins depending on size of cookies. Until the edges are golden brown."
+      "Mix the flour, baking powder, baking soda, cornstarch, salt, sprinkles in a medium-sized bowl. Set aside.",
+      "Cream the melted butter, sugar, applesauce, and vanilla until smooth, no clumps. For about 3 minutes.",
+      "Add the wet ingredients to the dry and gently combine. Make sure not to over mix the batter! I recommend using a wooden spoon.",
+      "Fold in sprinkles, however many you would like honestly.",
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until edges are golden brown.",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   },
   {
-    "id": "cookie005",
+    "id": "cookie05",
     "title": "Ginger Snap Cookies",
     "image": "/ginger_cookie.jpg",
     "description": "Chewy in the middle, crispy on the outside, fun ginger cookies!",
     "ingredients": [
-      "1 cup softened butter",
-      "1 1/2 cup brown sugar",
-      "1/2 cup molasses",
+      "1 cup (227 g) softened vegan butter",
+      "1 1/2 cup (300 g) brown sugar",
+      "1/2 cup (170 g) molasses",
       "1 tbsp vanilla extract",
-      "3 1/4 cup flour",
+      "3 1/4 cup (390 g) flour",
       "1 tbsp baking soda",
-      "1/2 tsp salt", 
-      "1 tbsp ground ginger", 
-      "1 tbsp cinnamon", 
+      "1/2 tsp salt",
+      "1 tbsp ground ginger",
+      "1 tbsp cinnamon",
       "1/2 tsp nutmeg",
-      "1 cup sugar for rolling"
+      "1 cup (200 g) white sugar for rolling"
     ],
     "steps": [
-      "Preheat oven to 350°F, line 2 baking sheets with parchment.",
-      "Mix the flour, baking powder, baking soda, salt, ginger, cinnamon, and nutmeg.",
-      "Cream the butter, sugar, molasses, and vanilla until smooth, no clumps.",
-      "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
-      "Roll the dough into desired balls in the white sugar, and bake for around 10-15 mins depending on size of cookies. Until the edges are golden brown."
+      "Preheat oven to 350°F, line 2 baking sheets with parchment paper.",
+      "Mix the flour, baking soda, salt, ginger, cinnamon, and nutmeg in a medium-sized bowl. Set aside.",
+      "Cream the softened butter, brown sugar, molasses, and vanilla until smooth, no clumps. For around 3 minutes.",
+      "Add wet ingredients and gently combine. Make sure not to over mix the batter! I recommend using a wooden spoon.",
+      "Roll the dough into desired balls in the white sugar, and bake for around 10-12 minutes depending on size of cookies. Until the edges are golden brown."
     ]
   },
   {
-    "id": "cookie006",
+    "id": "cookie06",
     "title": "Linzer Tart Cookies",
     "image": "/linzer_tart.jpg",
     "description": "Fun Holiday Linzer Tart Cookies!",
     "ingredients": [
-      "1/2 cup softened butter",
-      "1/2 cup sugar",
+      "1/2 cup (113 g) softened vegan butter",
+      "1/2 cup (100 g) sugar",
       "1/4 tsp salt", 
       "1/2 tsp lemon zest",
-      "1/3 cup unsweetened plant-based yogurt",
+      "1/3 (80 g) cup unsweetened plant-based yogurt",
       "1/2 tsp vanilla extract",
-      "2 cups flour",
-      "1/2 cup almond meal", 
-      "strawberry/blueberry/any jam",
+      "2 cups (240 g) flour",
+      "1/2 (48 g) cup almond meal", 
+      "strawberry/blueberry/apricot jam",
       "powdered sugar for dusting"
     ],
     "steps": [
       "Preheat oven to 350°F, line 2 baking sheets with parchment.",
       "Mix the flour and almond meal together, set aside.",
-      "Cream the butter, sugar, salt, lemon-zest, yogurt, and vanilla until smooth, no clumps.",
+      "Cream the softened butter, sugar, salt, lemon-zest, yogurt, and vanilla until smooth, no clumps.",
       "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
       "Roll the dough to 1/8 thickness and refrigerate for 20 minutes.", 
-      "Begin to cut shapes, haolf of the shapes plain and half of them with a shape cut out in the center. Bake for about 8-10 minutes or until golden brown.",
+      "Begin to cut shapes, half of the shapes plain and half of them with a shape cut out in the center. Bake for about 8-10 minutes or until golden brown.",
       "Once cookies are cooled, add the jam to the center, sandwich the cookie, and dust with powdered sugar!"
     ]
-  }, 
+  },
   {
-    "id": "cookie007",
+    "id": "cookie07",
     "title": "S'mores Cookies",
     "image": "/smores_cookie.jpg",
     "description": "Fun S'mores Cookies!",
     "ingredients": [
-      "170g softened butter",
-      "57g applesauce or dairy-free yogurt",
-      "150g brown sugar", 
-      "100g white sugar",
+      "3/4 cup (170 g) softened butter",
+      "1/4 cup (57 g) applesauce or dairy-free yogurt",
+      "3/4 cup (150 g) brown sugar", 
+      "1/2 cup (100 g) white sugar",
       "1 tbsp vanilla extract",
       "1/2 tsp baking soda",
       "1/4 tsp salt",
-      "250g flour", 
-      "255g chocolate chips or chopped chocolate",
+      "2 cups (250 g) flour", 
+      "1 1/2 cups (255 g) chocolate chips or chopped chocolate",
       "graham crackers", 
       "mini marshmallows"
     ],
@@ -211,17 +218,17 @@
     ]
   }, 
   {
-    "id": "cookie008",
+    "id": "cookie08",
     "title": "Valentines Day Cookies",
     "image": "/valentines_cookies.jpg",
     "description": "Valentines Day Cookies!",
     "ingredients": [
-      "1 1/2 cups flour",
+      "1 1/2 cups flour (180 g)",
       "3/4 tsp baking soda",
-      "1/2 tsp baking powder", 
+      "1/2 tsp baking powder",
       "1/2 tsp salt",
-      "1/2 cup sugar",
-      "6 tbsp oil/melted vegan butter",
+      "1/2 cup sugar (100 g)",
+      "6 tbsp oil (82 g) / melted vegan butter (84 g)",
       "1 1/2 tbsp plant-based milk",
       "1 tsp vanilla extract"
     ],
@@ -230,17 +237,17 @@
       "Mix the flour, salt, baking soda, baking powder, and set aside.",
       "Mix the oil/butter, sugar, and vanilla until smooth.",
       "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
-      "Roll the dough and cut into shapes. Bake for around 10-12 minutes until golden brown. Add icing if desired!"
+      "Roll the dough to about 1/4 inch thick and cut into shapes. Bake for around 10-12 minutes until golden brown. Add icing if desired!"
     ]
   },
   {
-    "id": "cookie009",
+    "id": "cookie09",
     "title": "Iced Lemon Cookies",
     "image": "/iced_lemon_cookie.jpg",
     "description": "Chewy vegan chocolate chip cookies made with no eggs—just pure cookie magic.",
     "ingredients": [
-      "2 1/4 cups (280 g) all purpose flour or gluten free 1:1 baking flour, sifted and spoon & leveled",
-      "1 tbsp cornstarch or arrowroot starch",
+      "2 1/4 cups (280 g) all purpose flour",
+      "1 tbsp cornstarch or arrowroot starch or potato starch",
       "1/2 tsp baking soda",
       "1/4 tsp sea salt",
       "2/3 cup (150 g) salted vegan butter, softened",
@@ -262,19 +269,19 @@
     ]
   }, 
   {
-    "id": "cookie010",
+    "id": "cookie10",
     "title": "Iced Oatmeal Cookies",
     "image": "/iced_oatmeal_cookie.jpg",
     "description": "Chewy vegan chocolate chip cookies made with no eggs—just pure cookie magic.",
     "ingredients": [
-      "1 1/2 cups (180 g) all purpose flour or gluten free 1:1 baking flour, sifted and spoon & leveled",
+      "1 1/2 cups (180 g) all purpose flour",
       "1 cup rolled oats",
       "1 tsp ground cinnamon",
       "1 tsp baking soda",
       "1/2 cup (113 g) salted vegan butter, melted",
       "1/2 cup (110 g) light brown sugar",
       "1/2 cup (100 g) organic granulated sugar",
-      "1/4 cup (85 g) unsweetened applesauce, room temperature",
+      "1/3 cup (85 g) unsweetened applesauce, room temperature",
       "1 tsp vanilla extract", 
       "For the Icing: ",
       "2 cups powdered sugar", 
@@ -293,43 +300,33 @@
     ]
   }, 
   {
-    "id": "cookie11",
-    "title": "Oatmeal Raisin Cookies",
-    "image": "/oatmeal_raisin_cookie.jpg",
-    "description": "Chewy vegan oatmeal raisin cookies!",
-    "ingredients": [
-    ],
-    "steps": [
-    ]
-  }, 
-  {
-    "id": "healthy01",
-    "title": "Healthy Pumpkin Chocolate Chip Muffin",
-    "image": "/healthy_muffin.jpg",
-    "description": "Yummy Healthy Vegan Pumpkin Muffin!",
-    "ingredients": [
-    ],
-    "steps": [
-    ]
-  }, 
-  {
     "id": "muffin03",
     "title": "Bakery-Style Berry Muffin",
     "image": "/berry_muffin.jpg",
     "description": "Amazing Vegan Bakery-Style Berry Muffin!",
     "ingredients": [
+      "312 g all purpose flour",
+      "200 g cane sugar",
+      "1 tbsp baking powder",
+      "1/2 tsp himalayan salt",
+      "255 ml unsweetened plant-based milk", 
+      "60 ml oil",
+      "60 ml applesauce",
+      "1 tbsp vanilla", 
+      "1 cup frozen/fresh berries", 
+      "Streusel: ",
+      "3 : 2 : 1 ratio of flour, brown sugar, and cubed butter",
+      "Icing: ",
+      "powdered sugar & splash of plant-based milk "
     ],
     "steps": [
-    ]
-  },
-  {
-    "id": "healthy02",
-    "title": "Healthy Banana Chocolate Chip Muffin",
-    "image": "/healthy_choc_banana_muffin.jpg",
-    "description": "Delicious Healthy Vegan Banana Chocolate Muffin!",
-    "ingredients": [
-    ],
-    "steps": [
+      "Preheat oven to 425°F.",
+      "Mix the flour, sugar, baking powder, and salt. Set aside.",
+      "Add wet ingredients and gently combine. Make sure not to over mix the batter!",
+      "Fill muffin tins halfway, sprinkle some berries (I prefer frozen), fill rest, and place rest of berries on top.",
+      "Make streusel in a seperate bowl and add to the top of each muffin before baking. Totally optional, but makes a nice crispy sweet muffin top!",
+      "Bake for around 20 mins, or until an inserted toothpick comes out clean!",
+      "Wait around 30 minutes for muffins to cool, then add the icing on top for an extra touch of sweetness!"
     ]
   },
   {
@@ -338,38 +335,55 @@
     "image": "/blueberry_muffin.jpg",
     "description": "Simple Vegan Blueberry Muffins!",
     "ingredients": [
+      "2 cups plain (all-purpose) flour (250 g)",
+      "3/4 cup white sugar (150 g)",
+      "2 tsp baking powder",
+      "1/2 tsp salt",
+      "1 cup unsweetened non-dairy milk (240 ml)",
+      "1/3 cup non-dairy yogurt (85 g)",
+      "1/4 cup oil (60 ml)",
+      "1 tsp cider or white wine vinegar (or lemon juice)",
+      "2 tsp vanilla extract",
+      "1 1/4 cups fresh or frozen blueberries (180 g)"
     ],
     "steps": [
+      "Preheat the oven to 400°F. Line a muffin tin with paper liners.",
+      "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+      "In a separate bowl, whisk together the non-dairy milk, non-dairy yogurt, oil, vinegar (or lemon juice), and vanilla extract. Let sit for 2 minutes.",
+      "Pour the wet ingredients into the dry ingredients and gently fold until just combined (do not overmix)!!",
+      "Gently fold in the blueberries. If using frozen blueberries, add them straight from the freezer (do not thaw).",
+      "Divide the batter evenly into the muffin cups, filling each almost to the top.",
+      "Bake for 18–22 minutes, or until a toothpick inserted in the center comes out clean (blueberry streaks are fine—just no wet batter).",
+      "Let the muffins cool in the pan for 5–10 minutes, then enjoy!"
     ]
   },
   {
-    "id": "muffin06",
-    "title": "Pumpkin Muffins",
-    "image": "/pumpkin_muffin.jpg",
-    "description": "Superb Vegan Pumpkin Muffins!",
+    "id": "cookie11",
+    "title": "Oatmeal Raisin Cookie",
+    "image": "/oatmeal_raisin_cookie.jpg",
+    "description": "Amazing Vegan Oatmeal Raisin Cookie!",
     "ingredients": [
+      "1 1/2 cups (220 g) all-purpose flour",
+      "1 1/2 cups (150 g) rolled oats",
+      "1/2 tsp baking soda",
+      "1/2 tsp baking powder",
+      "1/2 tsp sea salt",
+      "1 cup (220 g) melted vegan butter",
+      "3/4 cup (150 g) brown sugar",
+      "1/2 cup (100 g) granulated sugar",
+      "2/3 cup (150 g) dairy free yogurt/applesauce",
+      "2 tsp vanilla extract",
+      "1 cup (220 g) raisins"
     ],
     "steps": [
-    ]
-  }, 
-  {
-    "id": "healthy03",
-    "title": "Healthy Granola Bars",
-    "image": "/granola_bars.jpg",
-    "description": "Healthy Granola Bars!",
-    "ingredients": [
-    ],
-    "steps": [
-    ]
-  }, 
-  {
-    "id": "healthy04",
-    "title": "Pumpkin Spice Protein Granola",
-    "image": "/pumpkin_protein_granola.jpg",
-    "description": "Amazing Pumpkin Spice Protein Granola!",
-    "ingredients": [
-    ],
-    "steps": [
+      "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+      "In a medium bowl, whisk together flour, oats, starch, baking powder, baking soda, and salt. Set bowl aside.",
+      "In a separate bowl, cream together the melted vegan butter, granulated sugar, and brown sugar for about 3 minutes.",
+      "Stir in the dairy-free yogurt/applesauce and vanilla extract into the sugar/butter mixture until combined.",
+      "Gradually mix the dry ingredients into the wet ingredients to form a dough. I recommend using a wooden spoon.",
+      "Fold in raisins.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until edges are golden brown.",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   }, 
   {
@@ -378,18 +392,28 @@
     "image": "/oatmeal_chip_cookie.jpg",
     "description": "Amazing Vegan Oatmeal Chocolate Chip Cookie!",
     "ingredients": [
+      "1 1/2 cups (220 g) all-purpose flour",
+      "1 1/2 cups (150 g) rolled oats",
+      "1/2 tsp baking soda",
+      "1/2 tsp baking powder",
+      "1/2 tsp sea salt",
+      "1 cup (220 g) melted vegan butter",
+      "3/4 cup (150 g) brown sugar",
+      "1/2 cup (100 g) granulated sugar",
+      "2/3 cup (150 g) dairy free yogurt/applesauce",
+      "2 tsp vanilla extract",
+      "1 cup (220 g) vegan chocolate chips or chunks"
     ],
     "steps": [
-    ]
-  }, 
-  {
-    "id": "cookie13",
-    "title": "Snickerdoodle Crumbl Cookie Dupe",
-    "image": "/snickerdoodle_crumbl_dupe.jpg",
-    "description": "Totally Vegan Snickerdoodle Crumbl Cookie Dupe!",
-    "ingredients": [
-    ],
-    "steps": [
+      "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+      "In a medium bowl, whisk together flour, oats, starch, baking powder, baking soda, and salt. Set bowl aside.",
+      "In a separate bowl, cream together the melted vegan butter, granulated sugar, and brown sugar for about 3 minutes.",
+      "Stir in the dairy-free yogurt/applesauce and vanilla extract into the sugar/butter mixture until combined.",
+      "Gradually mix the dry ingredients into the wet ingredients to form a dough. I recommend using a wooden spoon.",
+      "Fold in chocolate chips or chunks.",
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until edges are golden brown.",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   }, 
   {
@@ -398,8 +422,30 @@
     "image": "/lemon_white_choc_cookie.jpg",
     "description": "Amazing Lemon White Chocolate Chip Cookie!",
     "ingredients": [
+      "1 cup (200 g) granulated sugar",
+      "1/2 cup (110 g) light brown sugar",
+      "2 tbsp lemon zest",
+      "1 cup (226 g) cold salted vegan butter, cubed",
+      "1/3 cup (70 g) dairy free yogurt, cold",
+      "2 tbsp lemon juice",
+      "2 tbsp cornstarch",
+      "1 tbsp vanilla extract",
+      "1/2 tsp baking soda",
+      "1/2 tsp sea salt",
+      "3 cups (375 g) all-purpose flour",
+      "9 ounces vegan white chocolate chips"
     ],
     "steps": [
+      "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+      "In a medium bowl, whisk together flour, cornstarch, baking soda, and salt. Set bowl aside.",
+      "In a seperate bowl, add in the brown sugar, white sugar, and lemon zest. Rub the lemon zest into the sugar to release the lemon extract.",
+      "In the same bowl, cream together the cold vegan butter, granulated sugar, brown sugar, and lemon zest for about 3 minutes.",
+      "Stir in the dairy-free yogurt/applesauce, vanilla extract, and lemon juice into the sugar/butter mixture until combined.",
+      "Gradually mix the dry ingredients into the wet ingredients to form a dough. I recommend using a wooden spoon.",
+      "Fold in white chocolate chips.",
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until edges are golden brown.",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   }, 
   {
@@ -408,8 +454,28 @@
     "image": "/hot_cocoa_cookie.jpg",
     "description": "Amazing Holiday Hot Cocoa Cookie!",
     "ingredients": [
+      "1 1/4 cups (160 g) all purpose flour",
+      "1/2 cup (50 g) dutch-process cocoa powder",
+      "1 tsp baking soda",
+      "1/2 tsp sea salt",
+      "1/2 tsp espresso powder (optional, but highly recommended)",
+      "1/2 cup (113 g) softened vegan butter",
+      "1/3 cup (85 g) unsweetened applesauce/dairy-free yogurt",
+      "2/3 cup (135 g) brown sugar",
+      "1/2 cup (100 g) granulated sugar",
+      "1/2 tsp vanilla extract",
+      "1 cup (170 g) vegan chocolate chips or however many your heart desires :)"
     ],
     "steps": [
+      "Before you start, I highly recommend using a kitchen scale for measuring out the ingredients!",
+      "In a bowl, whisk together flour, cocoa powder, baking soda, salt, and espresso powder. Set this bowl aside.",
+      "In a separate bowl, cream the softened vegan butter with brown sugar and granulated sugar for around 3 minutes using a mixer. Slowly add in the vanilla and apple sauce until well combined.",
+      "Gradually add the dry ingredients to the wet, mixing with a wooden spoon gently until a dough forms.",
+      "Fold in the chocolate chips or chunks. I recommend using 2 types for a nice variety, Trader Joes has an excellent selection.",
+      "Optional: Put the dough in the fridge for around 2 hours. This step isn't necesarry, but I've noticed the cookies do come out more flavorful and gooey when refigerated before baking.",
+      "When creating the dough balls, place a peice of marshmallow inside the ball and seal closed.",
+      "Scoop the cookie dough onto the baking sheet, roughly the size of 2 tablespoons per cookie and bake for 10–12 minutes, or until you can tell they are done!",
+      "Let cookies cool for about 10 minutes and then enjoy :)"
     ]
   }, 
   {
