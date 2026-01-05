@@ -11,12 +11,10 @@ export default function Home() {
         />
         <h1>Hi! I'm Alexandra!</h1>
         <p>
-          I’m a passionate vegan baker from Hillsdale, New Jersey. I bake 100% vegan because I’m
-          allergic to milk and eggs—but trust me, you won’t miss them one bit!
+          I’m a casual vegan baker from here to there, and figured why not compose all my recipes into one big website for easy access!
         </p>
         <p>
-          From cookies to cakes, I’m here to prove that allergy-friendly baking can
-          be delicious, beautiful, and joyful!
+          I have severe allergies to dairy and eggs, but trust me when I say you won't be able to tell the difference!
         </p>
       </div>
     </div>

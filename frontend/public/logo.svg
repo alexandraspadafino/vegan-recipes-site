@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Cupcake badge logo">
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2f8"/>
+      <stop offset="1" stop-color="#ffe0f0"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="110" cy="110" r="100" fill="url(#badge)" stroke="#ff5fb7" stroke-width="6"/>
+  <circle cx="110" cy="110" r="84" fill="none" stroke="#ff5fb7" stroke-width="2" opacity="0.5" stroke-dasharray="6 8"/>
+
+  <!-- cupcake -->
+  <g transform="translate(56,62)">
+    <!-- frosting -->
+    <path d="M54 12
+             C78 10, 92 28, 84 44
+             C92 48, 94 62, 84 70
+             C88 86, 72 98, 54 90
+             C36 98, 20 86, 24 70
+             C14 62, 16 48, 24 44
+             C16 28, 30 10, 54 12Z"
+          fill="#ff7fc8" opacity="0.95"/>
+    <!-- sprinkle dots -->
+    <g fill="#fff" opacity="0.9">
+      <circle cx="38" cy="34" r="3"/><circle cx="62" cy="30" r="3"/>
+      <circle cx="50" cy="48" r="3"/><circle cx="70" cy="52" r="3"/>
+      <circle cx="34" cy="56" r="3"/>
+    </g>
+    <!-- liner -->
+    <path d="M22 88 H86 L76 140 Q54 154 32 140Z" fill="#ff5fb7" opacity="0.9"/>
+    <g stroke="#fff" stroke-width="4" opacity="0.7">
+      <path d="M32 94 V136"/><path d="M44 94 V142"/><path d="M56 94 V146"/><path d="M68 94 V142"/><path d="M80 94 V136"/>
+    </g>
+  </g>
+</svg>
