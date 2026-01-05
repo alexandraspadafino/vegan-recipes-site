@@ -78,32 +78,46 @@
   font-weight: 650;
 }
 
+/* Smaller cookie cards on mobile */
 @media (max-width: 480px) {
   .cookie-grid {
     grid-template-columns: 1fr;
-    gap: 1rem;
-    padding: 0 0.75rem;
+    gap: 0.85rem;
+    padding: 0 0.65rem;
+    max-width: 420px; /* keeps the column from feeling huge */
   }
 
   .cookie-card {
-    padding: 0.9rem;
-    border-radius: 18px;
-    gap: 0.7rem;        /* slightly tighter on mobile */
+    padding: 0.75rem;
+    border-radius: 16px;
+  }
+
+  .cookie-card::before {
+    height: 4px; /* smaller accent bar */
+  }
+
+  .cookie-image {
+    aspect-ratio: 16 / 9;  /* shorter image = shorter card */
+    border-radius: 12px;
   }
 
   .cookie-card h2 {
-    font-size: 1.05rem;
+    font-size: 1rem;
+    margin: 0.45rem 0 0.55rem; /* tighter */
     line-height: 1.2;
     padding: 0 0.1rem;
   }
 
-  .cookie-image {
-    aspect-ratio: 16 / 10;  /* less tall so the card feels balanced */
-    border-radius: 14px;
-  }
-
   .cookie-cta {
+    margin-top: 0.35rem;
+    font-size: 0.9rem;
     padding: 0 0.1rem;
-    font-size: 0.92rem;
+  }
+}
+
+/* Disable hover lift on touch devices so it doesn't feel jumpy */
+@media (hover: none) {
+  .cookie-card:hover {
+    transform: none;
   }
 }
