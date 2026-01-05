@@ -77,3 +77,27 @@
   color: #e84aa6;
   font-weight: 650;
 }
+
+/* Mobile: make cards less tall + images less dominant */
+@media (max-width: 480px) {
+  .cookie-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 0 0.75rem;
+  }
+
+  .cookie-card {
+    padding: 0.9rem;
+    border-radius: 18px;
+  }
+
+  .cookie-image {
+    aspect-ratio: 16 / 10; /* shorter than 4:3 (less tall) */
+    border-radius: 14px;
+  }
+
+  .cookie-card h2 {
+    font-size: 1.05rem;
+    margin: 0.65rem 0 0.75rem;
+  }
+}
