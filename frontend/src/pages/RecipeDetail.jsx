@@ -65,10 +65,10 @@ ${steps}
     <div className="recipe-detail">
       <div className="recipe-actions">
         <button type="button" onClick={onPrint} className="recipe-btn">
-          Print
+          🖨️
         </button>
         <button type="button" onClick={onDownload} className="recipe-btn recipe-btn--primary">
-          Download
+          ⬇️
         </button>
       </div>
 
