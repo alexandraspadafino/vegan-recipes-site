@@ -507,5 +507,15 @@
     ],
     "steps": [
     ]
+  }, 
+  {
+    "id": "cake04",
+    "title": "Lemon Cupcakes",
+    "image": "",
+    "description": "Vegan Lemon Cupcakes filled with lemon curd and topped with a lemon buttercream frosting!",
+    "ingredients": [
+    ],
+    "steps": [
+    ]
   }
 ]
