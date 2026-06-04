@@ -2,6 +2,12 @@
   --nav-height: 100px; /* controls how much space pages need */
 }
 
+@media (max-width: 480px) {
+  :root {
+    --nav-height: 145px; /* nav links wrap to 2 rows on small screens */
+  }
+}
+
 .navbar {
   width: 100%;
   position: fixed;
@@ -27,15 +33,16 @@
   align-items: center;
   gap: 0.6rem;
 
-  font-family: "Poppins", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-family: "Nunito", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 }
 
 /* Brand */
 .navbar-title {
   margin: 0;
+  font-family: "Pacifico", cursive;
   font-size: 1.6rem;
-  font-weight: 800;
-  letter-spacing: -0.02em;
+  font-weight: 400;
+  letter-spacing: 0.01em;
   color: #111827;
 }
 
@@ -57,7 +64,8 @@
 .navbar-links a {
   text-decoration: none;
   color: #111827;
-  font-weight: 600;
+  font-family: "Nunito", system-ui, sans-serif;
+  font-weight: 700;
   font-size: 0.95rem;
 
   padding: 0.35rem 0.6rem;

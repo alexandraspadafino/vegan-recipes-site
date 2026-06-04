@@ -1,17 +1,25 @@
 .recipe-detail {
-  padding: 100px 2rem 2rem 2rem;
+  padding: calc(var(--nav-height) + 1rem) 2rem 2rem;
   max-width: 800px;
   margin: auto;
   text-align: left;
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
   color: #111;
 }
 
 .recipe-detail h1 {
+  font-family: "Pacifico", cursive;
   color: #ff66cc;
   font-size: 2.5rem;
+  font-weight: 400;
   margin-bottom: 1rem;
   text-align: center;
+}
+
+.recipe-detail h2 {
+  font-family: "Nunito", sans-serif;
+  color: #ff3399;
+  margin-top: 2rem;
 }
 
 .recipe-image {
@@ -20,11 +28,6 @@
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 1.5rem;
-}
-
-.recipe-detail h2 {
-  color: #ff3399;
-  margin-top: 2rem;
 }
 
 .recipe-actions {
@@ -81,6 +84,21 @@
 }
 
 .steps-list li {
-  padding-left: 0.35rem;  /* little gap between number and text */
+  padding-left: 0.35rem;
   margin-bottom: 0.5rem;
+}
+
+@media (max-width: 480px) {
+  .recipe-detail {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .recipe-detail h1 {
+    font-size: 1.8rem;
+  }
+
+  .recipe-detail h2 {
+    font-size: 1.2rem;
+  }
 }
