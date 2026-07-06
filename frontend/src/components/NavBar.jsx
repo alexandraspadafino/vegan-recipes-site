@@ -7,7 +7,7 @@ export default function NavBar() {
       <div className="navbar-container">
         <div className="navbar-brand">
           <h1 className="navbar-title">Beez Bakes</h1>
-          <p className="navbar-tagline">plant-based recipes worth sharing</p>
+          <p className="navbar-tagline">plant-based recipes</p>
         </div>
         <div className="navbar-separator" />
         <div className="navbar-links">

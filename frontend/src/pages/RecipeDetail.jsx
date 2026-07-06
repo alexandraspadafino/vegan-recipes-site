@@ -86,6 +86,13 @@ ${steps}
       <h2>Ingredients</h2>
       <ul className="ingredients-list">
         {recipe.ingredients.map((item, idx) => {
+          if (item.trim().endsWith(":")) {
+            return (
+              <li key={idx} className="ingredient-section-header">
+                <strong>{item}</strong>
+              </li>
+            );
+          }
           const checked = !!checkedIngredients[idx];
           return (
             <li key={idx} className={`ingredient-item ${checked ? "checked" : ""}`}>
