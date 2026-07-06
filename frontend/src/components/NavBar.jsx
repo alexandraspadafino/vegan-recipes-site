@@ -1,16 +1,23 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import "../styling/NavBar.css";
 
 export default function NavBar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <h1 className="navbar-title">Beez Bakes</h1>
+        <div className="navbar-brand">
+          <h1 className="navbar-title">Beez Bakes</h1>
+          <p className="navbar-tagline">plant-based recipes worth sharing</p>
+        </div>
+        <div className="navbar-separator" />
         <div className="navbar-links">
-          <Link to="/">Home</Link>
-          <Link to="/cookies">Cookies</Link>
-          <Link to="/muffins">Muffins</Link>
-          <Link to="/cakes">Cakes</Link>
+          <NavLink to="/" end>Home</NavLink>
+          <span className="nav-dot" />
+          <NavLink to="/cookies">Cookies</NavLink>
+          <span className="nav-dot" />
+          <NavLink to="/muffins">Muffins</NavLink>
+          <span className="nav-dot" />
+          <NavLink to="/cakes">Cakes</NavLink>
         </div>
       </div>
     </nav>

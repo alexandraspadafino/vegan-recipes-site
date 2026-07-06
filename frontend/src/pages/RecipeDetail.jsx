@@ -63,23 +63,24 @@ ${steps}
 
   return (
     <div className="recipe-detail">
-      <div className="recipe-actions">
-        <button type="button" onClick={onPrint} className="recipe-btn">
-          🖨️
-        </button>
-        <button type="button" onClick={onDownload} className="recipe-btn recipe-btn--primary">
-          ⬇️
-        </button>
-      </div>
-
       <h1>{recipe.title}</h1>
-      <img
-        src={recipe.image}
-        alt={recipe.title}
-        className="recipe-image"
-        loading="lazy"
-        decoding="async"
-      />
+      <div className="recipe-image-wrapper">
+        <img
+          src={recipe.image}
+          alt={recipe.title}
+          className="recipe-image"
+          loading="lazy"
+          decoding="async"
+        />
+        <div className="recipe-actions">
+          <button type="button" onClick={onPrint} className="recipe-btn">
+            🖨️
+          </button>
+          <button type="button" onClick={onDownload} className="recipe-btn recipe-btn--primary">
+            ⬇️
+          </button>
+        </div>
+      </div>
       <p>{recipe.description}</p>
 
       <h2>Ingredients</h2>
@@ -107,6 +108,11 @@ ${steps}
           <li key={idx}>{step}</li>
         ))}
       </ol>
+
+      <div className="print-signature">
+        <span className="print-signature-title">Beez Bakes</span>
+        <span className="print-signature-tagline">plant-based recipes worth sharing</span>
+      </div>
     </div>
   );
 }

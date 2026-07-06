@@ -42,19 +42,20 @@
 }
 
 .cookie-card h2 {
-  font-family: "Nunito", sans-serif;
-  font-size: 1.15rem;
+  font-family: “Baloo 2”, sans-serif;
+  font-size: 1.2rem;
   font-weight: 800;
-  letter-spacing: -0.01em;
+  letter-spacing: 0.02em;
   color: #111827;
-  margin: 0.75rem 0 0.9rem;
+  margin: 0.5rem 0 0.75rem;
   line-height: 1.25;
-  padding: 0 0.2rem;
+  text-align: center;
 }
 
-/* This makes photos consistent + “premium” */
 .cookie-image {
-  width: 100%;
+  display: block;
+  width: 90%;
+  margin: 0 auto;
   aspect-ratio: 4 / 3;
   object-fit: cover;
   border-radius: 16px;
@@ -96,15 +97,15 @@
   }
 
   .cookie-image {
-    aspect-ratio: 2.2 / 1; /* MUCH shorter = card looks smaller */
+    aspect-ratio: 4 / 3;
     border-radius: 10px;
   }
 
   .cookie-card h2 {
     font-size: 0.95rem;
-    margin: 0.35rem 0 0.35rem;
+    margin: 0.3rem 0 0.4rem;
     line-height: 1.15;
-    padding: 0;
+    text-align: center;
   }
 
   .cookie-cta {
