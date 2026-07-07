@@ -359,7 +359,7 @@
   },
   {
     "id": "cookie11",
-    "title": "Oatmeal Raisin Cookie",
+    "title": "Oatmeal Raisin Cookies",
     "image": "/oatmeal_raisin_cookie.jpg",
     "description": "Amazing Vegan Oatmeal Raisin Cookie! Makes about 20-24 cookies.",
     "ingredients": [
@@ -388,7 +388,7 @@
   }, 
   {
     "id": "cookie12",
-    "title": "Oatmeal Chocolate Chip Cookie",
+    "title": "Oatmeal Chocolate Chip Cookies",
     "image": "/oatmeal_chip_cookie.jpg",
     "description": "Amazing Vegan Oatmeal Chocolate Chip Cookie! Makes about 20-24 cookies.",
     "ingredients": [
@@ -418,7 +418,7 @@
   }, 
   {
     "id": "cookie14",
-    "title": "Lemon White Chip Cookie",
+    "title": "Lemon White Chip Cookies",
     "image": "/lemon_white_choc_cookie.jpg",
     "description": "Amazing Lemon White Chocolate Chip Cookie! Makes about 24-28 cookies.",
     "ingredients": [
@@ -450,7 +450,7 @@
   }, 
   {
     "id": "cookie15",
-    "title": "Holiday Hot Cocoa Cookie",
+    "title": "Holiday Hot Cocoa Cookies",
     "image": "/hot_cocoa_cookie.jpg",
     "description": "Amazing Holiday Hot Cocoa Cookie! Makes about 16-18 cookies.",
     "ingredients": [
