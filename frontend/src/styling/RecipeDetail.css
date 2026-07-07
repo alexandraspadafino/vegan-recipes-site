@@ -1,5 +1,5 @@
 .recipe-detail {
-  padding: 108px 2rem 2rem;
+  padding: calc(var(--nav-height) + 0.5rem) 2rem 2rem;
   max-width: 800px;
   margin: auto;
   text-align: left;
