@@ -655,32 +655,125 @@
     "id": "muffin06",
     "title": "Healthy Chocolate Banana Muffins",
     "image": "/healthy_choc_banana_muffin.jpg",
-    "description": "Healthy Vegan Chocolate Banana Muffins!",
-    "ingredients": [],
-    "steps": []
+    "description": "Rich, fudgy chocolate muffins made with ripe bananas — no eggs, no dairy, and honestly so good you'd never guess they're on the healthier side. Makes 12 muffins.",
+    "ingredients": [
+      "Wet Ingredients:",
+      "360 g (1 1/2 cups) mashed very ripe bananas",
+      "50 g (1/4 cup) nut butter",
+      "150 ml (1/2 cup + 2 tbsp) lukewarm oat milk or other plant milk",
+      "200 g (1 cup) coconut sugar",
+      "Dry Ingredients:",
+      "50 g unsweetened cocoa powder",
+      "1 1/4 tsp baking powder",
+      "3/4 tsp baking soda",
+      "180 g all-purpose flour or oat flour",
+      "1/2 tsp fine sea salt",
+      "Optional:",
+      "100 g (3 1/2 oz) vegan dark chocolate, diced small"
+    ],
+    "steps": [
+      "Preheat oven to 355°F (180°C) and line a standard 12-hole muffin tin with liners.",
+      "In a large bowl, mash your bananas really well — the riper the better! Mix in the coconut oil, plant milk, and coconut sugar until well combined.",
+      "Sift the cocoa powder, baking powder, baking soda, flour, and salt directly over the wet ingredients. Gently fold everything together, making small circles in the middle and slowly incorporating more of the dry ingredients outward — this keeps the batter smooth and lump-free!",
+      "Fold in the chopped chocolate or chocolate chips if using. Save a few pieces to press on top for decoration.",
+      "Divide the batter evenly between the 12 muffin holes — it should be fairly pourable. Top with any extra chocolate pieces if you'd like.",
+      "Bake for 22-23 minutes, or until a toothpick comes out fairly clean. The muffins should be moist inside!",
+      "Let them cool completely before eating — I know it's hard to wait but trust me :)"
+    ]
   },
   {
     "id": "muffin07",
     "title": "Healthy Pumpkin Muffins",
     "image": "/pumpkin_healthy_muffin.png",
-    "description": "Healthy Vegan Pumpkin Muffins!",
-    "ingredients": [],
-    "steps": []
+    "description": "Cozy, warmly spiced vegan pumpkin muffins that are secretly super healthy — no oil, no eggs, no dairy, and sweetened with maple syrup. Perfect for fall but honestly good any time of year! Makes 12 muffins.",
+    "ingredients": [
+      "Dry Ingredients:",
+      "2 cups flour (260 g)",
+      "3 tsp pumpkin spice",
+      "1 tsp cinnamon",
+      "1 tsp salt",
+      "1 1/2 tsp baking powder",
+      "1/2 tsp baking soda",
+      "Wet Ingredients:",
+      "1 can pumpkin puree (15 oz)",
+      "1/2 cup maple syrup",
+      "1/3 cup oat milk or unsweetened plant milk of choice",
+      "2 tsp vanilla extract",
+      "1 tsp apple cider vinegar", 
+      "Optional:",
+      "Chocolate Chips"
+    ],
+    "steps": [
+      "Preheat oven to 350°F (175°C) and line a standard 12-hole muffin tin with liners.",
+      "Add all the dry ingredients to a large bowl and whisk to combine.",
+      "Add all the wet ingredients to the same bowl and carefully mix together, making sure to scrape down the sides and bottom. Do not overmix!",
+      "Use a spoon or ice cream scoop to divide the batter evenly between the muffin liners.",
+      "Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean with no wet batter.",
+      "Transfer to a cooling rack and let cool completely before serving — they firm up as they cool!"
+    ]
   },
   {
     "id": "cake06",
     "title": "White Chocolate Cupcakes",
     "image": "/white_choc_cupcakes.png",
-    "description": "Vegan White Chocolate Cupcakes!",
-    "ingredients": [],
-    "steps": []
+    "description": "Fluffy, tender vegan white chocolate cupcakes topped with a dreamy white chocolate buttercream. These are so elegant and rich — nobody will believe they're completely plant-based! Makes 12 cupcakes.",
+    "ingredients": [
+      "For the Cupcakes:",
+      "1 cup (240 ml) dairy-free unsweetened milk, room temperature",
+      "1 tsp vinegar",
+      "1/3 cup (67 g) vegan butter, melted and cooled to room temperature",
+      "1/3 cup vegan white chocolate, melted and cooled to room temperature",
+      "2 tsp vanilla extract",
+      "1 cup (200 g) sugar",
+      "1 3/4 cups (230 g) all-purpose flour",
+      "1 tbsp arrowroot starch or cornstarch",
+      "1 1/2 tsp baking powder",
+      "1/2 tsp baking soda",
+      "For the White Chocolate Buttercream:",
+      "1 cup vegan butter, softened to room temperature",
+      "3 cups powdered sugar",
+      "2-3 tbsp non-dairy milk",
+      "1 tsp pure vanilla extract"
+    ],
+    "steps": [
+      "Preheat oven to 350°F and line a 12-cup muffin tin with cupcake liners. Make sure your melted butter and white chocolate are fully cooled to room temperature before starting — hot ingredients will mess up the batter!",
+      "Make the vegan buttermilk: combine the dairy-free milk and vinegar and set aside to curdle for a few minutes.",
+      "In a medium bowl, sift together the flour, arrowroot starch, baking powder, and baking soda. Set aside.",
+      "In a large bowl, whisk together the vegan buttermilk, melted butter, melted white chocolate, and vanilla extract until smooth.",
+      "Add the dry ingredients to the wet and fold together with a silicone spatula until no dry clumps remain. Do not over mix!",
+      "Fill each cupcake liner about 3/4 of the way full. Bake for 27-30 minutes, or until a toothpick comes out clean and the tops are lightly golden and spring back at a light touch.",
+      "Remove from oven and let cool completely before frosting — I mean it, don't rush this step!",
+      "Make the buttercream: beat the softened vegan butter until smooth, about 2 minutes. Gradually add the powdered sugar about a cup at a time, starting on low and increasing to medium speed. Add 2 tbsp of non-dairy milk and vanilla and beat on medium for 3-4 minutes until fluffy. Add more milk if too thick, or more powdered sugar if too thin.",
+      "Pipe or spread the buttercream onto each cooled cupcake, decorate as desired, and enjoy! The buttercream can be made up to 2 days ahead and stored in the fridge — just bring it to room temperature before using."
+    ]
   },
   {
     "id": "cake05",
     "title": "Donuts",
     "image": "/donuts.png",
-    "description": "Vegan Donuts!",
-    "ingredients": [],
-    "steps": []
+    "description": "Fluffy, golden vegan donuts made from scratch with a simple yeast dough and finished with a sweet powdered sugar glaze. These are so worth the wait — crispy on the outside, pillowy soft on the inside! Makes about 12 donuts.",
+    "ingredients": [
+      "For the Dough:",
+      "3 1/2 - 4 cups flour (bread flour preferred, all-purpose or whole wheat works too)",
+      "1 package instant yeast",
+      "1 tsp salt",
+      "1 1/2 cups dairy-free milk, room temperature (oat milk recommended)",
+      "1/4 cup maple syrup (or agave or vegan cane sugar)",
+      "For the Glaze:",
+      "2 tbsp non-dairy milk",
+      "2 tbsp vegan butter, melted",
+      "1/4 tsp salt",
+      "2 cups powdered sugar"
+    ],
+    "steps": [
+      "In a large bowl, whisk together 3 1/2 cups flour, instant yeast, and salt. Add the dairy-free milk and maple syrup and fold with a spatula until mostly combined. Sprinkle in a little more flour if needed until the dough isn't sticky and forms a ball.",
+      "Grease the same bowl and place the dough ball back in. Cover with a towel or plastic wrap and let rise in a warm, draft-free spot for 60-90 minutes until doubled in size.",
+      "On a lightly floured surface, roll the dough out to about 1/2 inch thick. Using a 3.5\" donut cutter, cut out donut shapes, then use a 1\" cutter to cut out the centers. Re-roll any scraps and repeat until no dough remains.",
+      "Place the cut donuts on a baking sheet, cover, and let rise again for 30 minutes.",
+      "While the donuts rise, make the glaze: whisk together the melted butter, milk, and salt. Add powdered sugar and whisk until smooth. Add more milk 1 tsp at a time if you'd like a thinner glaze.",
+      "Heat oil to 330-350°F. Fry the donuts for about 30-45 seconds per side until golden brown.",
+      "Carefully remove from the oil and place on a cooling rack with a sheet pan underneath to catch the drips. Repeat until all donuts are fried.",
+      "Once cooled, dip each donut into the glaze and let the excess drip off. Serve immediately or store in an airtight container for up to 2 days!"
+    ]
   }
 ]

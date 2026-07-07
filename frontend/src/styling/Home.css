@@ -42,6 +42,18 @@
   margin-bottom: 1rem;
 }
 
+.favorite-link {
+  color: #e84aa6;
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.15s ease;
+}
+
+.favorite-link:hover {
+  opacity: 0.75;
+}
+
 @media (max-width: 480px) {
   .about-image {
     width: 180px;
