@@ -1,10 +1,10 @@
 :root {
-  --nav-height: 120px;
+  --nav-height: 150px;
 }
 
 @media (max-width: 480px) {
   :root {
-    --nav-height: 115px;
+    --nav-height: 145px;
   }
 }
 
@@ -116,6 +116,67 @@
 
 main, .cookies-page, .page {
   padding-top: calc(var(--nav-height) + 1rem);
+}
+
+.navbar-search {
+  position: relative;
+  margin-top: 0.4rem;
+}
+
+.search-input {
+  width: 220px;
+  padding: 0.3rem 0.9rem;
+  border: 1.5px solid rgba(232, 74, 166, 0.3);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.8);
+  font-family: "Nunito", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #2d2d2d;
+  outline: none;
+  transition: border-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.search-input::placeholder {
+  color: #bbb;
+  font-weight: 500;
+}
+
+.search-input:focus {
+  border-color: #e84aa6;
+  box-shadow: 0 0 0 3px rgba(232, 74, 166, 0.1);
+}
+
+.search-dropdown {
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 260px;
+  background: #fff;
+  border: 1.5px solid rgba(232, 74, 166, 0.2);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(17, 24, 39, 0.12);
+  list-style: none;
+  padding: 0.4rem 0;
+  margin: 0;
+  z-index: 200;
+  overflow: hidden;
+}
+
+.search-dropdown li {
+  padding: 0.5rem 1rem;
+  font-family: "Nunito", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #2d2d2d;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.search-dropdown li:hover {
+  background: rgba(232, 74, 166, 0.08);
+  color: #e84aa6;
 }
 
 @media (max-width: 480px) {
