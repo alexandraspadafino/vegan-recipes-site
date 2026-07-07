@@ -25,7 +25,7 @@
   {
     "id": "cookie01",
     "title": "Double Chocolate Chip Cookies",
-    "image": "/double_choc.jpg",
+    "image": "/double_choc.png",
     "description": "Chewy and chocolatey vegan cookies with a rich cocoa base. These are honestly probably the only cookie I have ever perfected and they come out amazing every. single. time. Makes about 16-18 cookies.",
     "ingredients": [
       "1 1/4 cups (160 g) all purpose flour",
@@ -332,7 +332,7 @@
   {
     "id": "muffin05",
     "title": "Blueberry Muffins",
-    "image": "/blueberry_muffin.jpg",
+    "image": "/blueberry_muffin.png",
     "description": "Simple Vegan Blueberry Muffins! Makes about 12 muffins.",
     "ingredients": [
       "2 cups plain (all-purpose) flour (250 g)",
