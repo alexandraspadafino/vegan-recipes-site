@@ -650,5 +650,37 @@
       "To fill the cupcakes: use a small knife or cupcake corer to cut a small hole in the center of each cooled cupcake. Spoon or pipe a small amount of lemon curd into each hole.",
       "Pipe or spread the lemon buttercream on top of each cupcake, garnish with a little lemon zest or a slice of lemon, and enjoy!"
     ]
+  },
+  {
+    "id": "muffin06",
+    "title": "Healthy Chocolate Banana Muffins",
+    "image": "/healthy_choc_banana_muffin.jpg",
+    "description": "Healthy Vegan Chocolate Banana Muffins!",
+    "ingredients": [],
+    "steps": []
+  },
+  {
+    "id": "muffin07",
+    "title": "Healthy Pumpkin Muffins",
+    "image": "/pumpkin_healthy_muffin.png",
+    "description": "Healthy Vegan Pumpkin Muffins!",
+    "ingredients": [],
+    "steps": []
+  },
+  {
+    "id": "cake06",
+    "title": "White Chocolate Cupcakes",
+    "image": "/white_choc_cupcakes.png",
+    "description": "Vegan White Chocolate Cupcakes!",
+    "ingredients": [],
+    "steps": []
+  },
+  {
+    "id": "cake05",
+    "title": "Donuts",
+    "image": "/donuts.png",
+    "description": "Vegan Donuts!",
+    "ingredients": [],
+    "steps": []
   }
 ]
