@@ -120,6 +120,27 @@
   }
 }
 
+.order-recipe-btn {
+  display: block;
+  width: fit-content;
+  margin: 0 auto 1.2rem;
+  padding: 0.55rem 1.5rem;
+  background: linear-gradient(135deg, #e84aa6, #ff89c6);
+  color: #fff;
+  font-family: "Baloo 2", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+
+.order-recipe-btn:hover {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+
 .print-signature {
   display: none;
 }

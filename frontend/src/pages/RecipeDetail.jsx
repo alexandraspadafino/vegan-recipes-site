@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import "./../styling/RecipeDetail.css";
 
 export default function RecipeDetail() {
@@ -82,6 +82,8 @@ ${steps}
         </div>
       </div>
       <p>{recipe.description}</p>
+
+      <Link to={`/order/${id}`} className="order-recipe-btn">Order this recipe</Link>
 
       <h2>Ingredients</h2>
       <ul className="ingredients-list">

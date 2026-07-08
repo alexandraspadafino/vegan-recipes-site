@@ -5,6 +5,7 @@ import Cookies from "./pages/Cookies";
 import Muffins from "./pages/Muffins";
 import Cakes from "./pages/Cakes";
 import RecipeDetail from "./pages/RecipeDetail";
+import Order from "./pages/Order";
 
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
         <Route path="/muffins" element={<Muffins />} />
         <Route path="/cakes" element={<Cakes />} />
         <Route path="/recipe/:id" element={<RecipeDetail />} />
+        <Route path="/order" element={<Order />} />
+        <Route path="/order/:recipeId" element={<Order />} />
       </Routes>
     </Router>
   );

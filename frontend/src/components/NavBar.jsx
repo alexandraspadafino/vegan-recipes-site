@@ -57,6 +57,8 @@ export default function NavBar() {
           <span className="nav-dot" />
           <NavLink to="/cakes">Cakes</NavLink>
         </div>
+        <NavLink to="/order" className="navbar-order-btn">Order Now</NavLink>
+
         <div className="navbar-search" ref={searchRef}>
           <input
             type="text"

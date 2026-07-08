@@ -118,6 +118,26 @@ main, .cookies-page, .page {
   padding-top: calc(var(--nav-height) + 1rem);
 }
 
+.navbar-order-btn {
+  display: inline-block;
+  margin-top: 0.3rem;
+  padding: 0.3rem 1.1rem;
+  background: linear-gradient(135deg, #e84aa6, #ff89c6);
+  color: #fff !important;
+  font-family: "Baloo 2", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+
+.navbar-order-btn:hover {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+
 .navbar-search {
   position: relative;
   margin-top: 0.4rem;
