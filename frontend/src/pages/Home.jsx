@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className="about-wrapper">
       <div className="about-container">
+        <Link to="/order" className="home-order-btn">Place an Order</Link>
         <img
           src="/me.jpeg"
           alt="Alexandra smiling"

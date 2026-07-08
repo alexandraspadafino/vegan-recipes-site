@@ -57,25 +57,26 @@ export default function NavBar() {
           <span className="nav-dot" />
           <NavLink to="/cakes">Cakes</NavLink>
         </div>
-        <NavLink to="/order" className="navbar-order-btn">Order Now</NavLink>
-
-        <div className="navbar-search" ref={searchRef}>
-          <input
-            type="text"
-            className="search-input"
-            placeholder="Search recipes..."
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-          />
-          {results.length > 0 && (
-            <ul className="search-dropdown">
-              {results.map((r) => (
-                <li key={r.id} onMouseDown={() => handleSelect(r.id)}>
-                  {r.title}
-                </li>
-              ))}
-            </ul>
-          )}
+        <div className="navbar-bottom">
+          <div className="navbar-search" ref={searchRef}>
+            <input
+              type="text"
+              className="search-input"
+              placeholder="Search recipes..."
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+            />
+            {results.length > 0 && (
+              <ul className="search-dropdown">
+                {results.map((r) => (
+                  <li key={r.id} onMouseDown={() => handleSelect(r.id)}>
+                    {r.title}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+          <NavLink to="/order" className="navbar-order-btn">Order Now</NavLink>
         </div>
       </div>
     </nav>

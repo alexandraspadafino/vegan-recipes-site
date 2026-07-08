@@ -42,6 +42,27 @@
   margin-bottom: 1rem;
 }
 
+.home-order-btn {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  padding: 0.65rem 2rem;
+  background: linear-gradient(135deg, #e84aa6, #ff89c6);
+  color: #fff;
+  font-family: "Baloo 2", sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  box-shadow: 0 4px 15px rgba(232, 74, 166, 0.3);
+}
+
+.home-order-btn:hover {
+  opacity: 0.88;
+  transform: translateY(-2px);
+}
+
 .favorite-link {
   color: #e84aa6;
   font-weight: 800;
