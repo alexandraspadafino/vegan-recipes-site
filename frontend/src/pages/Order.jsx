@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import emailjs from "@emailjs/browser";
 import "../styling/Order.css";
 
@@ -59,12 +59,19 @@ export default function Order() {
       .catch(() => setStatus("error"));
   }
 
+  useEffect(() => {
+    if (status === "success") {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  }, [status]);
+
   if (status === "success") {
     return (
       <div className="order-page">
         <div className="order-success">
           <h1>Order Received!</h1>
           <p>Thanks for your order! I'll be in touch soon to confirm details and arrange payment.</p>
+          <Link to="/" className="order-home-btn">Back to Home</Link>
         </div>
       </div>
     );

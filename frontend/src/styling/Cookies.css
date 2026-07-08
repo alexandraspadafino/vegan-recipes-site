@@ -79,6 +79,10 @@
 }
 
 @media (max-width: 520px) {
+  .cookies-page {
+    padding-top: calc(var(--nav-height) + 1.75rem);
+  }
+
   .cookie-grid {
     grid-template-columns: 1fr;
     gap: 0.55rem;
